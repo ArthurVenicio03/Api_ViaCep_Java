@@ -1,7 +1,7 @@
-README - Api_ViaCep_Java
-Descrição
+#Api_ViaCep_Java
 
-Este é um projeto de exemplo de uma API REST em Java que utiliza o padrão de projeto Design Patterns, o framework Spring Boot, o banco de dados H2, o JPA (Java Persistence API), o Swagger para documentação e boas práticas de desenvolvimento.
+
+#Este é um projeto de exemplo de uma API REST em Java que utiliza o padrão de projeto Design Patterns, o framework Spring Boot, o banco de dados H2, o JPA (Java Persistence API), o Swagger para documentação e boas práticas de desenvolvimento.
 
 A API permite a busca de informações sobre endereços a partir de um CEP (Código de Endereçamento Postal) usando a API pública ViaCep (https://viacep.com.br/). O projeto demonstra como criar uma API RESTful robusta e documentada, seguindo as melhores práticas de desenvolvimento.
 Tecnologias Utilizadas
